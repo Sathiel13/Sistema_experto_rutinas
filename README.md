@@ -3,10 +3,15 @@
   <h1> Sistema Experto con Experta en py</h1>
   <h1>Le dejo esta pequeña descripcion e instrucciones para que vea que yo realmente se programar, en prolog talvez no pero pyhton es mi fuerte</h1>
   <p>
+    En caso de querer usar el modo JSON, se encuentra en la carpeta data y mas abajo su comando de ejecucion
+    El codigo base esta en src/engine.py
+  </p>
+  <p>
     Este proyecto implementa un <strong>Sistema Experto</strong> en Python, 
     diseñado para realizar recomendaciones personalizadas relacionadas con la 
     <em>actividad física</em>. El sistema toma en cuenta factores como:
   </p>
+  
   <ul>
     <li>Lesiones previas.</li>
     <li>Preferencias o gustos de entrenamiento.</li>
