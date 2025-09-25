@@ -1,0 +1,43 @@
+[
+  {
+    "id": "u1",
+    "nivel": "principiante",
+    "objetivo": "perdida_grasa",
+    "gustos": ["correr", "pesas"],
+    "tiempo_minutos": 35,
+    "dias_por_semana": 3,
+    "equipo": "casa_sin_equipo",
+    "lesiones": ["rodilla"]
+  },
+  {
+    "id": "u2",
+    "nivel": "intermedio",
+    "objetivo": "ganancia_muscular",
+    "gustos": ["calistenia", "pesas"],
+    "tiempo_minutos": 60,
+    "dias_por_semana": 4,
+    "equipo": "gimnasio",
+    "lesiones": []
+  },
+  {
+    "id": "u3",
+    "nivel": "avanzado",
+    "objetivo": "resistencia",
+    "gustos": ["ciclismo", "yoga"],
+    "tiempo_minutos": 50,
+    "dias_por_semana": 5,
+    "equipo": "casa_con_mancuernas",
+    "lesiones": ["hombro"]
+  }
+  ,
+  {
+    "id": "u4",
+    "nivel": "intermedio",
+    "objetivo": "ganancia_muscular",
+    "gustos": ["pesas"],
+    "tiempo_minutos": 150,
+    "dias_por_semana": 5,
+    "equipo": "casa_con_mancuernas",
+    "lesiones": []
+  }
+]
